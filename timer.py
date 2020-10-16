@@ -1,5 +1,4 @@
 import time
-import sys
 import pygame
 
 pygame.init()
@@ -175,4 +174,3 @@ while running:
     set_time(screen, begin)
     
     pygame.display.update()
-sys.exit()
