@@ -57,7 +57,7 @@ def reset(number,x,y,background):
         pygame.draw.rect(screen, (255,0,0), (x,y,box_w,box_h))
     font = pygame.font.SysFont('Arial', 45)
     num = font.render(number, True, (0,0,0))
-    numRect = num.get_rect(center=(x+box_w/2, y+box_h/2))
+    numRect = num.get_rect(center=(x+box_w//2, y+box_h//2))
     screen.blit(num, numRect)
 
 def exchange(string):
