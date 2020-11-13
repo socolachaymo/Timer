@@ -10,4 +10,4 @@ This is how the game looks like:
 </p>
 
 ### Get it!
-You can download the game (Timer.zip)from [Release](https://github.com/socolachaymo/Tic-Tac-Toe/releases) and run the app.exe file
+You can download the game (Timer.zip)from [Release](https://github.com/socolachaymo/Timer/releases/tag/0.0) and run the timer.exe file
