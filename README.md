@@ -6,7 +6,7 @@ I wrote it on Pygame. You can press numbers to set timer and press Start to coun
 This is how the game looks like:
 
 <p align='center'>
-<img src='Images/screenshot.PNG'/>
+<img src='images/screenshot.PNG'/>
 </p>
 
 ### Get it!
