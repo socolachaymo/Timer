@@ -9,5 +9,5 @@ This is how the game looks like:
 <img src='images/screenshot.PNG'/>
 </p>
 
-### Get it!
+### Try it!
 You can download the game (Timer.zip)from [Release](https://github.com/socolachaymo/Timer/releases/tag/0.0) and run the timer.exe file
