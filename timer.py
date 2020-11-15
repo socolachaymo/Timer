@@ -8,6 +8,7 @@ pygame.display.set_caption('Timer')
 screen.fill((200,200,200))
 pygame.display.update()
 
+pygame.mixer.init()
 music = pygame.mixer.music.load('wake-up.wav')
 
 box = [(20,70), (155,70), (280,70), (40,140), (160,140), (290,140)]
